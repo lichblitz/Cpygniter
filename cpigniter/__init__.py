@@ -1,5 +1,5 @@
 """
-SQLAlchemy backend for MonetDB
+SQLAlchemy backend for Apache Ignite
 """
 
 import pkg_resources
